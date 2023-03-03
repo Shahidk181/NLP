@@ -1,0 +1,1 @@
+data link is https://www.kaggle.com/code/itratrahman/nlp-tutorial-using-python/input
